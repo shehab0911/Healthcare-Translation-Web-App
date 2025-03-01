@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Usage
 Run the application using the following command:
 ```sh
-python app.py
+streamlit run app.py
 ```
 This will launch the Gradio web interface where users can upload audio files, choose languages, and process speech translation.
 
@@ -71,6 +71,7 @@ The application requires the following libraries:
 - `transformers`
 - `TTS`
 - `torch`
+- `streamlit`
 
 These dependencies will be installed automatically using the `requirements.txt` file.
 
