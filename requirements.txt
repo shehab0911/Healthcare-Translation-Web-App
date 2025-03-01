@@ -1,0 +1,11 @@
+TTS
+transformers
+faster-whisper
+gradio
+torch
+whisper
+deep-translator
+gtts
+git+https://github.com/openai/whisper.git
+streamlit
+
