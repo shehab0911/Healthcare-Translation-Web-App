@@ -24,6 +24,12 @@ git clone <repository-url>
 cd <project-folder>
 ```
 
+### Create Virtual Environment
+```sh
+python -m venv venv
+venv\Scripts\activate
+```
+
 ### Install Dependencies
 ```sh
 pip install -r requirements.txt
