@@ -14,7 +14,7 @@ This project is a **Healthcare Translation Web App** that transcribes, translate
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.8+
+- Python 3.9 to 3.11
 - pip package manager
 - CUDA (if using GPU acceleration)
 
@@ -51,6 +51,7 @@ The application supports the following languages:
 - Italian (`it`)
 - Korean (`ko`)
 - Dutch (`nl`)
+- You can add more, but it is primarily implemented in these languages.
 
 ### Model Options
 - **Whisper**: Standard Whisper model for transcription
