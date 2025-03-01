@@ -36,6 +36,12 @@ streamlit run app.py
 ```
 This will launch the Gradio web interface where users can upload audio files, choose languages, and process speech translation.
 
+## Easy Implementation
+
+```sh
+Run the first two cells in the file that Colab file has provided, then obtain a streamlit link and utilize it.
+```
+
 ## Configuration
 ### Language Mapping
 The application supports the following languages:
