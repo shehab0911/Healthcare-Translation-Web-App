@@ -47,6 +47,11 @@ This will launch the Gradio web interface where users can upload audio files, ch
 ```sh
 Run the first two cells in the file that Colab file has provided, then obtain a streamlit link and utilize it.
 ```
+## Video Demonstration for the entire System
+
+```sh
+https://www.loom.com/share/81318aa025f04b6085c8602182193e72?sid=7ec047ef-5471-40f7-b210-3eb3eaff903e
+```
 
 ## Configuration
 ### Language Mapping
